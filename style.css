@@ -341,6 +341,16 @@ body {
   border-top: 1px solid var(--black-color);
   flex: 1;
 }
+.define-right__text h1{
+  background: -webkit-linear-gradient(#414141, #90d5ec);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.define-left__text h1{
+  background: -webkit-linear-gradient(#414141, #90d5ec);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 .define-right__text .define-right__text-line1 {
   margin-bottom: 10px;
   margin-top: 30px;
